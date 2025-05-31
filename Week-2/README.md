@@ -17,7 +17,7 @@ Let’s demystify neural networks and lay the foundation for everything that fol
 
 ## 📌 Resources for the Week
 
-1. 🎥 **Video Series:** [Neural Networks – First 4 Videos](https://youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&si=VDIpZWHR-d4PyUlC) 
+1. 🎥 **Video Series:** [Neural Networks – First 4 Videos](https://youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&si=VDIpZWHR-d4PyUlC) \
    *Clear visual explanations to build intuition.*
 
 2. 📝 **Blog Post:** [Introduction to Neural Networks – Part 1](https://medium.com/deep-learning-demystified/introduction-to-neural-networks-part-1-e13f132c6d7e)  
