@@ -15,10 +15,10 @@ This week, we combine **core deep learning training concepts** with hands-on lea
 
 ## 📌 Theory Resources
 
-1. 📝 **Blog Post:** [Loss Functions and Optimization in Neural Networks](https://towardsdatascience.com/understanding-loss-functions-in-neural-networks-1c0f6a86d72)  
+1. 📝 **Blog Post:** [Loss Functions and Optimization in Neural Networks](https://medium.com/data-science-group-iitr/loss-functions-and-optimization-algorithms-demystified-bb92daff331c)  
    *Explains common loss functions and their role in learning.*
 
-2. 📝 **Blog Post:** [Gradient Descent Explained](https://towardsdatascience.com/gradient-descent-explained-9b953fc0d2ec)  
+2. 📝 **Blog Post:** [Gradient Descent Explained](https://arshren.medium.com/gradient-descent-5a13f385d403)  
    *Covers the mathematical intuition and variations of gradient descent.*
 
 3. 🎥 **Video:** [Backpropagation Explained Visually](https://www.youtube.com/watch?v=Ilg3gGewQ5U)  
